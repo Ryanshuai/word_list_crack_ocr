@@ -1,0 +1,685 @@
+sea-ear
+seaport
+seabed
+2[3]  chrom- :   color  Kx  Bt  
+monochromatic
+achromatic
+chromatic
+3[3]  prol- : KA H1T      ffspring  43 
+prolific
+proliferation
+proliferate
+4A[3]  me- :   to go  Kx  E  
+permeate
+impermeable
+permeable
+5[3]  sight- :   vision  K  BR   
+insight
+foresight
+insightful
+6[3]  card- chart- :   paper  Kx  KH 
+uncharted
+charter
+discard
+7[3]  strid- strif- striv- :   contend   n
+stride
+strive
+strident
+8[3]  vie- vit- :   fault    x  MBB 
+vicious
+vitate
+vituperate
+9[3]  esthet- aesthet- :   feeling  K   
+aesthetic
+aesthetics
+anesthetic
+10[3]  -ancy :   -ance  Kx   t  Wh
+vacancy
+discrepancy
+flippancy
+Rcc: ags:
+embed
+seabed
+bedrock
+12[3]  ger- :   to bear  carry  Xx  HK
+belligerence
+belligerent
+exaggerate
+13[3]  estim- esteem- :     
+esteem
+estimable
+inestimable
+14[3]  heir- hered- herit     4    KB:
+heritage
+inherit
+hereditary
+15[3]  -ine :  AskA  
+figurine
+libertine
+philistine
+16[3]  organ- :   instrum        
+organism
+organically
+disorganize
+17[3]  cycl- :   ring  circ       M   KE
+recycle
+ancillary
+encyclopedic
+18[3]  tenu- :   thin      48      R
+attenuate
+extenuate
+tenuous
+Eii hao o   f ar we
+patriot
+pilot
+zealot
+20[3]  vapor- :   steam  Kx   A  
+evaporate
+extenuate
+tenuous
+19[3]  -ot:        
+patriot
+pilot
+zealot
+20[3]  vapor- :   steam  Kx  XA  
+evaporate
+vapid
+vaporize
+21[3]  centr- :   center    f    RT
+eccentric
+concentrate
+anthropocentrism
+223]  tac- tic- retic- :   silent  Kx   
+reticent
+tacit
+taciturn
+rk EB  a    ane
+withdraw
+withhold
+notwithstanding
+24[3]  ting-: Xx  Xf  E86  
+distain
+taint
+tinge
+253]  gest- gister- :     ring  K   K
+congestion
+digest
+ingest
+26[3]  br- : HEK    
+bridle
+embroider
+upbraid
+27[ 3]  funct- :   perform  Kx Az    
+function
+perfunctory
+fungible
+28[3]  emper- imper- :   and  Xx  fm4
+imperative
+imperial
+imperious
+29 3]  go : K[goullg     mt    T   ]
+undergo
+outgoing
+forgo
+30[3]  tach- :   nail      17   51  
+attach
+detach
+detached
+31[3]  av- avar- :   desi   d  Xx  8  
+avarice
+avid
+avaricious
+32[3]  vil- :   base          fYiatRven
+vilify
+vile
+revile
+33[3]  tir- :   draw  Kr  H   
+attire
+tirade
+retiring
+34[3]  omni- : X xr R B 
+omniscient
+omnipresent
+omnivorous
+35[3]  post- poster- :   behind  x  F
+posthumous
+postdate
+preposterous
+36[3]  foli- :   leaf  Xx  NN   KAF
+foil
+foliage
+portfolio
+37[3]  sine- sund- :  apart  sep
+asunder
+sinecure
+sunder
+te Ses
+deplore
+deplorable
+implore
+39[3]  mail- :   hammer    41948  mol
+malleability
+mallet
+malleable
+40[3]  joc- jol-jov- : Kx  MAK  FD 
+jeopardy
+jocular
+jeopardize
+M[3]  scen-: Kx   A  
+scenery
+scenic
+scenario
+42[3]  cil- :   call  Kx  A   
+conciliate
+reconcile
+conciliatory
+43[3]  hor- :   to limit        MEF 
+horizon
+horizontal
+aphorism
+44[3]  nect- nex-:   EH   HEF
+interconnect
+nexus
+annex
+4A5[3]  idea- ideo- :   idea  XXx AX  
+ideology
+idyll
+ideologue
+46[3]  prud- : Kn     e
+prowess
+prude
+prudish
+A73]  plu- :   more      ARpleio-  plen- 
+full-bodied
+nonplus
+surplus
+48[3]  cal- cavil- : Kix     to deceive  cc
+calumniate
+cavil
+calumny
+49[3]  umbr- :   shado     4   XAB3
+adumbrate
+somber
+umbrage
+50[3]  tail- :   cut  Kx  H   1  
+retail
+entail
+tailor
+51[3]  vel-  velop- :   to   L-    veil   
+veil
+reveal
+revelation
+52[3]  hort- :   encourage  Kx   hh   
+exhort
+hortative
+hortatory
+53[3]  suce- :   juice  Kx  ERH  
+sip
+soak
+sop
+54[3]  fest- :   handle                
+infest
+manifestation
+manifest
+55[3]  pil- pill- :   pillar      x tt   
+compile
+pillar
+pillory
+56[3]  tom- tem- ton- :    JJ     kB
+atomization
+epitomize
+epitome
+viii Me
+annul
+nullification
+nullify
+58[3]  dog : K[dog][doghn  389  HE
+dogged
+hangdog
+underdog
+59[3]  cast- :   to throw    B 3y  R     at
+cast
+cast-iron
+downcast
+60[3]  worn :
+careworn
+shopworn
+timeworn
+61[3]  tro- tru- :   true      ZR
+truce
+entrust
+truism
+62[3]  -um -ium :  xXn       1887  
+magnesium
+helium
+aluminum
+63[3]  cruc- crus- crux-     ZX   ME
+crucial
+Crux
+excruciate
+64[3]  place : M   18    4 
+replace
+commonplace
+displace
+65[3]  numer- :   number 
+innumerable
+nimble
+outnumber
+66[3]  ton- tun- :   sou     tenc
+monotone
+attune
+monotonous
+67[3]  spers- :   scatter    8T   XB
+sparse
+disperse
+aspersion
+68[3]  rust- rur- :   country  Kx  RHP
+rural
+roisterer
+rustic
+69[3]  crud- :   raw      pancreas    i
+crude
+recrudesce
+recrudescent
+70[3]  un-: XKxr HF  HF    H  
+unravel
+undo
+unearth
+ito tcc -e
+irreverence
+reverend
+revere
+72[3]  -ward : XPHiq  aliq        
+awkward
+untoward
+wayward
+73[ 3]  -ia -plasia -plegia         -plegia 
+euphoria
+anemia
+hysteria
+74[3]  scin- shin- :   spark  Kx  Kit 
+scintillate
+moonshine
+scintillating
+75[3]  brev- bridg- :   s         3687
+abbreviate
+abridge
+brevity
+76[3]  rag : RlraeglXlr    A  1B   
+ragtime
+ragged
+rigmarole
+77[3]  penetr- :   B 1    enter into  K7
+penetrating
+penetrate
+impenetrable
+78[3]  alt- :   high      m  E   AYiq AR
+exalted
+exalt
+altitude
+79[3]  juven- :   young  Kx   H  
+jocund
+juvenile
+rejuvenate
+sliec s-
+myriad
+ballad
+nomad
+81[3]  top- : Kx   475    top-   -ia  
+topology
+topography
+topographical
+82[3]  mim- :   to imitate      45   
+mimetic
+mime
+mimic
+83[3]  balc- balk- : Kx  MIT  
+block
+balk
+balky
+84[3]  hold :  [havld]   1 7  16   1 
+uphold
+withhold
+beholden
+85[3]  crypt- :   secret    en  Kx  ME
+apocryphal
+cryptic
+grotesque
+8S6[3]  bio-  bi- :   life   4 49   ORT A
+symbiotic
+antibiotic
+symbiosis
+viii cane iK Ac -pe k
+glorify
+vainglorious
+vainglory
+ence  - a
+marine
+maritime
+marsh
+89[3]  hal- halit- :   bre     I IR   KRB:
+exhale
+hale
+inhale
+90[3]  serr- :   saw  KX HL  
+serrate
+serrated
+serried
+91[3]  phob- -phobia :      RX   KRB
+xenophobe
+claustrophobic
+xenophobic
+92[3]  vener- :   love  s   arm  Kx 
+venerable
+venerate
+venial
+93[3]  blanc- :   white   x  R  
+blanket
+bleak
+piebald
+cil Inde:  a
+shipment
+shipwright
+shipshape
+95[3]  corn- horn- :   h     G 
+cornucopia
+scorn
+cornerstone
+96[3]  sum- summ- :   add up  Kx  A
+summit
+consummate
+summary
+97[3]  torr- :   dry  Kr   T  
+torrent
+torrential
+torrid
+98[3]  glut- :   to devour  Kx   1Z   
+chaff
+glut
+glutton
+99[3]  coron- coroll- :   wn    x  ftH 
+corona
+coronation
+corollary
+100[3]  neutr- :   midd1    Mt  
+neuter
+neutron
+neutralize
+101[3]  fil- fili- :   thread   x      
+profile
+file
+defile
+1023]  quit- :   free  Kx  BR  
+requite
+unrequited
+acquittal
+103[3]  phon- :   sound  Kx  FE  
+cacophony
+euphonious
+symphony
+104[3]  per- : Kx E    Pig L n  A1
+perfidy
+perfunctory
+perfidious
+105 3]  ban- :   prohibit  Kr  HKit   
+abandon
+banal
+banish
+106[3]  infra- :    below   14980 Hunde
+inferiority
+fracas
+inferno
+107[3]  tot- :   entirely  Xx  288  
+teetotalism
+factotum
+totalitarianism
+ OEE cre sizer lie: pe
+rustproof
+foolproof
+reproof
+109[3]  touch- :   touch  Kx   if   
+untouched
+retouch
+touchstone
+110[3]  blaz- :   torch     MAEMEzt Jy  bhe
+blazing
+blaze
+blazon
+iRead E- ap cee
+earshot
+snapshot
+upshot
+112[3]  init- :   beginning      TFA  
+commencement
+initiate
+commence
+113[3]  misc- med- ming- :   mix  x 
+mingle
+commingle
+medley
+Elle Ree sete d: op 
+predator
+curator
+gladiator
+115[3]  tect- :   build  M
+tectonics
+architect
+tectonic
+116[3]  pol- pulp- pulv    ESE  t 2
+pollutant
+pollen
+pulverize
+117[3]  caval- :   horse  Kx  Z  
+chivalry
+chivalrous
+cavalier
+118[3]  nihil- :   nothing  Kx  J   717
+annihilate
+nil
+nihilism
+f ERE tence
+assure
+assurance
+reassure
+120[3]  fan- :   temple      
+fanatic
+profane
+fanciful
+121[3]  hibit- :   hold  Kx   f   
+exhibition
+inhibit
+prohibitive
+122[3]  dole- :   grieve  Xx  ith   
+condole
+dolorous
+indolent
+1233]  stip- :   to press together 
+stiffen
+stiff
+stipulate
+124[3]  phras- pha- ph    m  Wik   E
+paraphrase
+prophetic
+prophet
+125[3]  count- :   to cou   K   AZ  fig
+accountable
+count
+discount
+126[3]  agri- agro- agr-     Kx  AHE  -
+acre
+agrarian
+peregrination
+127[3]  vot- :   vow  Xx   E  
+devout
+devoted
+votary
+128[3]  scrut- scrutin- :    B-  y  sker t
+scrutable
+scrutinize
+inscrutable
+129[3]  pugn- :   fight   x  H3  
+impugn
+repugnant
+pugnacious
+130[3]  erg- :   energy     Hex J  werg-
+lethargic
+synergic
+synergy
+131[3]  half : K[ha:f]E[haat]n  -   4
+half-baked
+halthearted
+half-formulated
+132[ 3]  lac- lak- :   pon    leg-  to dribb
+lackluster
+leach
+leak
+ EEE hei on -- - in
+intuitive
+counterintuitive
+intuition
+134[ 3]  plant- :   plant     plat-  to spre:
+transplant
+clan
+supplant
+135[3]  pad- pan- pat-: Kx    7  
+deadpan
+pan
+patina
+136[3]  opt- :   choose  Kx t   
+adopt
+opine
+opt
+137[3]  hyper-: Kxn  HX  A   
+hypersensitive
+hyperbole
+hypercritical
+138[3]  tell : K[tellvt  SiR  in  MIR  Bf:
+telling
+foretell
+telltale
+139[3]  capr- :   goat  Kxr W   
+cab
+caprice
+capricious
+140[3]  pur- purg- :   p   e   to purify  cl
+purification
+expurgate
+purity
+141[3]  optim- :   best  Kx  R F   
+optimal
+optimum
+optimism
+142[3]  pro- :   xn  RZ      
+profligate
+profusion
+profit-monger
+143[3]  frict- :   friction   x  RH  
+friable
+friction
+frivolous
+144[ 3]  cel- col- cul- :   top  Kx  JM  
+excel
+culminate
+culmination
+145[3]  car-:   car        3  KRT
+cargo
+stockcar
+caricature
+146[3]  lys- -lyst :   bre     LF   82 
+paralysis
+paralyze
+catalyze
+147[3]  flat- :   blow  Kx  IX   
+inflation
+conflate
+deflate
+ A ERs
+glacier
+barrier
+cavalier
+149[3]  dent- odont- to    1i2 dent   
+edentate
+indent
+dent
+150[3]  spond- spons-      A    XB 
+spontaneous
+espouse
+responsive
+151[3]  proach- :   near  Kx   4  
+approach
+rapprochement
+reproach
+152[ 3]  bomb- :   drum  Kx      
+bombast
+bombard
+bombastic
+153[3]  somn- sopor :     1g EYEE:
+somnolence
+soporific
+somnolent
+154[3]  celer- :   quick    l   12   KE
+accelerate
+acolyte
+decelerate
+155[3]  dra- :   to perform  K x      
+dramatic
+melodrama
+customary
+158[3]  bon- :   good  K   7   
+boon
+bonhomie
+bountiful
+159[3]  temper- :   moderate  Xx  87
+intemperate
+temperate
+temper
+e- -s 3
+abash
+abeyance
+badinage
+161[3]  draw- drag- dra   x      BI
+drawback
+draw!
+withdraw
+162[3]  palat- :   roof of     HE
+unpalatable
+palatable
+palatial
+163[3]  maci- :   lean  Kx    
+meagre
+emaciate
+meager
+ Pia loa ct aos Res
+decrepit
+pitfall
+decrepitude
+165[3]  caliber : E[ kzelaba ]n  012  7  
+calibration
+calibrate
+calibrate
+ Eien -se
+lavatory
+inventory
+conservatory
+167[3]  vag- vagr- :   wander  Kx  8 
+extravagant
+vagary
+vague
+168[3]  frus-: Xx  Kin  KE  
+frustrate
+frustration
+fraudulent
+169[3]  mol- :   heap  Kx  I    
+molecule
+demolish
+demolition
+170[3]  sider- :   star      MABAXSI  
+considerably
+considerate
+considerable
+171[3]  macul- :   spot  Kx  Hm  
+immaculate
+maculate
+blackmail
+considerable
+
